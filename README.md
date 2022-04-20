@@ -4,11 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilherme-tozzi-mafra-a91744208/)
 
 
-## About me(*Sobre Mim*):
+## About me (*Sobre Mim*):
 
-Sou Guilherme Tozzi Mafra, estudante do curso de Ciência da Computação e atualmente interesso-me bastante as linguagens Back-end (*python,java,rails,swift e dentre outras*), além das linguagens de Database (*PostgreSQL,MariaDB e MySQL*) 
+Sou Guilherme Tozzi Mafra, estudante do curso de Ciência da Computação e atualmente interesso-me bastante as linguagens Back-end (*python,java,rails,swift*), além delas as linguagens Front-end (*HTML,CSS e JavaSCRIPT*) e, ressaltar também as linguagens de Database (*PostgreSQL,MariaDB e MySQL*) 
 
-## My specialties(*Minhas Expecialidades*):
+## My specialties (*Minhas Expecialidades*):
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
