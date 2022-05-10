@@ -13,7 +13,7 @@ I'm Guilherme Tozzi Mafra, student of the Computer Science course, I live in Vit
 <a href="https://linkedin.com/in/vinícius frigulha ribeiro" target="blank">
 <div> 
  <a href="https://www.instagram.com/guilherme_tozzim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/vinicius-f-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/guilherme-tozzi-mafra-a91744208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:guilhermetozzimafra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## > *My specialties (*Minhas Expecialidades*):*
