@@ -8,6 +8,14 @@
 
 I'm Guilherme Tozzi Mafra, student of the Computer Science course, I live in Vitória, Espírito Santo, Brazil, I really like the programming area and I'm currently very interested in Back-end languages (*python,java,rails,swift*) , in addition to them the Front-end languages (*HTML, CSS and JavaSCRIPT*) and, also highlight the Database languages (*PostgreSQL, MariaDB and MySQL*).
 
+## > *Contact me :*
+
+<a href="https://linkedin.com/in/vinícius frigulha ribeiro" target="blank">
+<div> 
+ <a href="https://www.instagram.com/guilherme_tozzim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/vinicius-f-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:guilhermetozzimafra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 ## > *My specialties (*Minhas Expecialidades*):*
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
