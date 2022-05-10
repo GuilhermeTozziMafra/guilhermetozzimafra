@@ -16,7 +16,7 @@ I'm Guilherme Tozzi Mafra, student of the Computer Science course, I live in Vit
  <a href="https://www.linkedin.com/in/guilherme-tozzi-mafra-a91744208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:guilhermetozzimafra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## > *My specialties (*Minhas Expecialidades*):*
+## > *My specialties :*
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
