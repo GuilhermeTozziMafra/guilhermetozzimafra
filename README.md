@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilherme-tozzi-mafra-a91744208/)
 
 
-## About me (*Sobre Mim*):
+## About me:
 
-Sou Guilherme Tozzi Mafra, estudante do curso de Ciência da Computação e atualmente interesso-me bastante as linguagens Back-end (*python,java,rails,swift*), além delas as linguagens Front-end (*HTML,CSS e JavaSCRIPT*) e, ressaltar também as linguagens de Database (*PostgreSQL,MariaDB e MySQL*) 
+I'm Guilherme Tozzi Mafra, student of the Computer Science course, I live in Vitória, Espírito Santo, Brazil, I really like the programming area and I'm currently very interested in Back-end languages (*python,java,rails,swift*) , in addition to them the Front-end languages (*HTML, CSS and JavaSCRIPT*) and, also highlight the Database languages (*PostgreSQL, MariaDB and MySQL*).
 
 ## My specialties (*Minhas Expecialidades*):
 
