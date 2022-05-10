@@ -4,11 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilherme-tozzi-mafra-a91744208/)
 
 
-## About me:
+## > *About me :*
 
 I'm Guilherme Tozzi Mafra, student of the Computer Science course, I live in Vitória, Espírito Santo, Brazil, I really like the programming area and I'm currently very interested in Back-end languages (*python,java,rails,swift*) , in addition to them the Front-end languages (*HTML, CSS and JavaSCRIPT*) and, also highlight the Database languages (*PostgreSQL, MariaDB and MySQL*).
 
-## My specialties (*Minhas Expecialidades*):
+## > *My specialties (*Minhas Expecialidades*):*
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
